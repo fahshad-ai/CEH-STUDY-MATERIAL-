@@ -1,0 +1,5 @@
+node_modules/
+content/pdf/ceh-bundle.pdf
+content/pdf/ceh-bundle-v2.pdf
+.DS_Store
+Thumbs.db
