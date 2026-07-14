@@ -29,7 +29,7 @@ This repository contains complete notes for the Certified Ethical Hacker (CEH) e
 ## How to Use
 
 1. **Read the markdown files directly** — each domain is a standalone `.md` file you can view on GitHub or any markdown reader.
-2. **Download the PDF** — grab [`ceh-bundle-v3.pdf`](content/pdf/ceh-bundle-v3.pdf) for an offline, print-friendly version with a cover page, clickable table of contents, and page numbers.
+2. **Download the PDF** — grab [`ceh study material.pdf`](content/pdf/ceh%20study%20material.pdf) for an offline, print-friendly version with a cover page, clickable table of contents, and page numbers.
 3. **Skim the review checklist** — [`review-checklist.md`](review-checklist.md) lists every command/syntax and every answer key in one place for rapid self-testing.
 
 ## Regenerating the PDF
