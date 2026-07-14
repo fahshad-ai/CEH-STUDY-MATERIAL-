@@ -26,28 +26,6 @@ This repository contains complete notes for the Certified Ethical Hacker (CEH) e
 | 9 | [Cryptography](content/markdown/ceh-bundle/09-cryptography.md) | 8 |
 | | **Total** | **154** |
 
-## Files
-
-```
-content/
-  markdown/
-    ceh-bundle/           # 9 domain markdown files (source of truth)
-      01-information-security-and-ethical-hacking.md
-      02-reconnaissance-techniques.md
-      03-system-hacking.md
-      04-network-and-perimeter-hacking.md
-      05-web-application-hacking.md
-      06-wireless-network-hacking.md
-      07-mobile-iot-and-ot-hacking.md
-      08-cloud-computing.md
-      09-cryptography.md
-  pdf/
-    ceh-bundle-v3.pdf     # Pre-built PDF with cover page, TOC, and page numbers
-review-checklist.md        # Quick-reference: all commands + all answer keys
-scripts/
-  convert-md-to-pdf.js     # Builds the PDF from markdown (Node.js + Puppeteer)
-```
-
 ## How to Use
 
 1. **Read the markdown files directly** — each domain is a standalone `.md` file you can view on GitHub or any markdown reader.
