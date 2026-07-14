@@ -32,17 +32,6 @@ This repository contains complete notes for the Certified Ethical Hacker (CEH) e
 2. **Download the PDF** — grab [`ceh study material.pdf`](content/pdf/ceh%20study%20material.pdf) for an offline, print-friendly version with a cover page, clickable table of contents, and page numbers.
 3. **Skim the review checklist** — [`review-checklist.md`](review-checklist.md) lists every command/syntax and every answer key in one place for rapid self-testing.
 
-## Regenerating the PDF
-
-Requires [Node.js](https://nodejs.org/) and [Google Chrome](https://www.google.com/chrome/).
-
-```bash
-npm install
-npm run convert
-```
-
-Output is written to `content/pdf/`.
-
 ## Disclaimer
 
 This is an independent study resource created for exam preparation. It is not affiliated with, endorsed by, or sponsored by EC-Council. CEH is a registered trademark of EC-Council.
